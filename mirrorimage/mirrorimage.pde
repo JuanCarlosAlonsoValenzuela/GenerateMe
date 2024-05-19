@@ -23,7 +23,7 @@
 //   SPACE to save
 
 // filename here:
-String filename = "test";
+String filename = "seattle";
 String fileext = ".jpg";
 String foldername = "./";
 

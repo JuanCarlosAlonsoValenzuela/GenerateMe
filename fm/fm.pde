@@ -20,7 +20,7 @@
 //   * press SPACE to save
 
 // set up filename
-String filename = "test";
+String filename = "graffiti";
 String fileext = ".jpg";
 String foldername = "./";
 

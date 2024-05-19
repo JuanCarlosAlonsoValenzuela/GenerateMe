@@ -3,7 +3,7 @@
 // Licence CC-BY-SA 3.0
  
 // put image filename here:
-String filename = "test";
+String filename = "seattle";
 String fileext = ".jpg";
 String foldername = "./";
  

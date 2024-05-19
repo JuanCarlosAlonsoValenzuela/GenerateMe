@@ -22,7 +22,7 @@
 // Sonification process (filename: teapot):
 // - setup filename (teapot) and planar variable (true or false)
 // - run, scripts loads teapot.obj and saves teapot/teapot.raw
-// - import RAW file into Audacity as 8 bit signed int or other
+// - import RAW file into Audacity as 8 bit signed int or otherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrro
 // - do whatever you want but don't change length of the audio!
 //   echo, compressor, reverse, etc...
 // - export RAW as 8 bit signed int or other and save under teapot/teapot_res.raw name
@@ -38,7 +38,7 @@
 // - importing/exporting as 8 bit signed int removes some faces (rounding errors in Audacity), you can choose A-law to keep them all
 
 // set up filename
-String filename = "teapot";
+String filename = "piano";
 String fileext = ".jpg";
 String foldername = "./";
 

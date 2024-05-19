@@ -13,7 +13,7 @@
 // NOTE: small change to stroke_len, angles_no, stroke_alpha may have dramatic effect
 
 // image filename
-String filename = "test";
+String filename = "anime";
 String fileext = ".jpg";
 String foldername = "./";
 
